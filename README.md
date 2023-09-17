@@ -8,3 +8,5 @@ Por cierto es mi primer reposutorio en linea
 Cambio en el repositorio local jejejej
 Nice
 # Incluyendo encabezado jejejej
+camibos
+git add .
